@@ -1,1 +1,3 @@
-# Python_API_Challenge
+# Python API Challenge
+
+Repository of API codes and Data Analytics Results
