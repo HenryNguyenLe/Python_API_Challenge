@@ -12,7 +12,7 @@ There are two Python files in this repository. The use of each will be further e
 
 ### Languages, Tools and Techniques
 * Python | Pandas | MatPlotLib | Gmaps | APIs | JSON | NumPy |  SciPy | Math | CityPy
-* List Comprehension | DataFrame | Linear Regression
+* List Comprehension | DataFrame | Linear Regression   
 Note: CityPy is for looking up nearest cities by geo-coordinates
 
 ### Work Flow
