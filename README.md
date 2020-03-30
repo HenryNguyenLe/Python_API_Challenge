@@ -9,15 +9,22 @@ As scientists recognized, due to the angle of the sun beaming at earth, weather 
 * List Comprehension | DataFrame | Linear Regression   
 Note: CityPy is for looking up nearest cities by geo-coordinates
 
-## Process Overview
-There are two Python files in this repository: "WeatherPy.ipynb" and "VacationPy.ipynb"
+## Table of Contents
+* Images : folder contains all exported plots
+* output_data : folder contains database of 500+ cities generated randomly across the globe by CityPy
+* .gitignore : contains file names that were not pushed to GitHub
+* README.md : overview of projects and outcomes
+* WeatherPy.ipynb : source codes to randomly generate cities and analyze global climate 
+* VacationPy.ipynb : source codes to find ideal potential vacation location based on weather conditions 
+* WorldMap.png : map of the earth embedded in the README.md file
 
+## Process Overview
 ### File Name : WeatherPy.ipynb
 #### Activities
 * Randomly create 500+ coordinates/ cities scattered around the world
 * Perform analysis on weather conditions at generated locations
 * Build JSON to retrieve data from API host and select relevant data
-* Plot weather condition parameters and find relationship between weather parameters with latitudes
+* Plot weather condition parameters and find relationship between weather parameters with latitudes  
         - Temperature (deg-F) vs. Latitude
         - Humidity (%) vs. Latitude
         - Cloudiness (%) vs. Latitude
@@ -45,3 +52,5 @@ The criteria for ideal location:
 #### Summary of Observations
 * Quite predictably, the ideal locations are in the Temperate or Coastal climate types
 * Out of 500+ cities being analyzed, only a few have hotels within 5,000 meters (3.1 miles). Majority is in Africa (could be an ideal continent for next summer vacation)
+
+
