@@ -27,10 +27,10 @@ Note: CityPy is for looking up nearest cities by geo-coordinates
 * Perform analysis on weather conditions at generated locations
 * Build JSON to retrieve data from API host and select relevant data
 * Plot weather condition parameters and find relationship between weather parameters with latitudes  
-        - Temperature (deg-F) vs. Latitude
-        - Humidity (%) vs. Latitude
-        - Cloudiness (%) vs. Latitude
-        - Wind Speed (mph) vs. Latitude
+        - Temperature (deg-F) vs. Latitude  
+        - Humidity (%) vs. Latitude  
+        - Cloudiness (%) vs. Latitude  
+        - Wind Speed (mph) vs. Latitude  
 
 #### Summary of Observations
 * Max temperatures occur around the earth's equator and drop off towards the poles
