@@ -4,24 +4,25 @@ As many scientists recognized that due to the angle of the sun beaming at earth,
 
 ![Image description](WorldMap.png)
 
-## Overview
-
-
-### Languages, Tools and Techniques
+## Languages, Tools and Techniques
 * Python | Pandas | MatPlotLib | Gmaps | APIs | JSON | NumPy |  SciPy | Math | CityPy
 * List Comprehension | DataFrame | Linear Regression   
 Note: CityPy is for looking up nearest cities by geo-coordinates
 
-### Work Flow
+## Process Overview
+There are two Python files in this repository: "WeatherPy.ipynb" and "VacationPy.ipynb"
+
+### WeatherPy.ipynb
+#### Activities
 * Randomly create 500+ coordinates/ cities scattered around the world
 * Perform analysis on weather conditions at generated locations
 * Build JSON to retrieve data from API host and select relevant data
 * Plot weather conditions and find relationship between weather parameters with latitudes
 
-### Summary of Observations
+## Summary of Observations
 Repository of API codes and Data Analytics Results
 
-### Contents
+## Contents
 There are two Python files in this repository.
 * WeatherPy.ipynb
     - Research weather
