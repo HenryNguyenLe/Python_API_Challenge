@@ -2,7 +2,7 @@
 ## Project Idea
 As scientists recognized, due to the angle of the sun beaming at earth, weather conditions are expected to vary with latitudes. Of course, there are other factors contributed to the variation of global climate, but in this project, the main focus is to "examine" the latitude factor.  
 
-Then, locate the best place(s) to vacation based on the weather conditions.
+Then, locate the best place(s) for vacation based on the weather conditions.
 
 ![Image description](WorldMap.png)
 
