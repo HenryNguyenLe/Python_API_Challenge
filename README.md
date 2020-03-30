@@ -7,7 +7,7 @@ Then, locate the best place(s) for vacation based on the weather conditions.
 ![Image description](WorldMap.png)
 
 ## Languages, Tools and Techniques
-* Python | Pandas | MatPlotLib | Gmaps | Google Places API | JSON | NumPy |  SciPy | Math | CityPy 
+* Python | Pandas | MatPlotLib | Gmaps | API (Google & OpenWeather) | JSON | NumPy |  SciPy | Math | CityPy 
 * List Comprehension | DataFrame | Linear Regression   
 Note: CityPy is for looking up nearest cities by geo-coordinates
 
