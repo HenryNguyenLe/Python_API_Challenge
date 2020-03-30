@@ -21,7 +21,7 @@ Note: CityPy is for looking up nearest cities by geo-coordinates
 * WorldMap.png : map of the earth embedded in the README.md file
 
 ## Process Overview
-### File Name : WeatherPy.ipynb
+### File # 1 : WeatherPy.ipynb
 #### Activities
 * Randomly create 500+ coordinates/ cities scattered around the world
 * Perform analysis on weather conditions at generated locations
@@ -39,7 +39,7 @@ Note: CityPy is for looking up nearest cities by geo-coordinates
 * Majority of the world has humidity of 60+% regardless of earth polarity. This is indicated by the density of data distribution on the Humidity plot
 * Most parts of the world are fairly calm (storms not accounted) with wind speed ~ 15-20 mph. Very few are in the 25+ mph range
 
-### File Name : VacationPy.ipynb
+### File # 2 : VacationPy.ipynb
 This file is a further step: analyze weather data and find the next ideal location for vacation
 The criteria for ideal location:
 * Max temperature between 70 & 80 deg-F
