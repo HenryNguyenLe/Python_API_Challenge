@@ -1,6 +1,6 @@
 # Global Weather Analysis
 ## Project Idea
-As scientists recognized that due to the angle of the sun beaming at earth, weather conditions are expected to vary with latitudes. Of course, there are other factors contributed to the variation of global climate, but in this project, the main focus is to "examine" the latitude factor.
+As scientists recognized, due to the angle of the sun beaming at earth, weather conditions are expected to vary with latitudes. Of course, there are other factors contributed to the variation of global climate, but in this project, the main focus is to "examine" the latitude factor.
 
 ![Image description](WorldMap.png)
 
