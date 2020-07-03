@@ -1,8 +1,8 @@
 # Global Weather Analysis and Ideal Vacation Locations
 ## Project Idea
-As scientists recognized, due to the angle of the sun beaming at earth, weather conditions are expected to vary with latitudes. Of course, there are other factors contributed to the variation of global climate, but in this project, the main focus is to "examine" the latitude factor.  
+Per scientistific research, due to the angle of the sun beaming at the earth, weather conditions are expected to vary with latitudes. Of course, there are other factors contributed to the variation of global climate, but in this project, the main focus is to "examine" the latitude factor.  
 
-Then, locate the best place(s) for vacation based on the weather conditions.
+Then, locate the best places for vacation based on the weather conditions.
 
 ![Image description](WorldMap.png)
 
@@ -40,8 +40,7 @@ Note: CityPy is for looking up nearest cities by geo-coordinates
 * Most parts of the world are fairly calm (storms not accounted) with wind speed ~ 15-20 mph. Very few are in the 25+ mph range
 
 ### File # 2 : VacationPy.ipynb
-This file is a further step: analyze weather data and find the next ideal location for vacation
-The criteria for ideal location:
+This file is a further step: analyze weather data and find the next ideal location for vacation. The criteria for ideal location:
 * Max temperature between 70 & 80 deg-F
 * Wind speed less than 10 mph
 * "Zero" cloudiness (0.0 %)
